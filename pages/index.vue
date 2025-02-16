@@ -12,6 +12,7 @@
 <script>
 import Notification from '~/components/Notification.vue';
 import { io } from 'socket.io-client';
+console.log("git");
 
   export default {
     name: "Chats",
