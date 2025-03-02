@@ -10,6 +10,7 @@
 </template>
   
 <script>
+console.log("hello");
 import Notification from '~/components/Notification.vue';
 import { io } from 'socket.io-client';
 console.log("git");
